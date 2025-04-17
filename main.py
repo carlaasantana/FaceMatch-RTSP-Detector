@@ -21,9 +21,6 @@ os.makedirs(PASTA_CONHECIDOS, exist_ok=True)  # ertifique-se que a pasta de conh
 
 # configuração das câmeras
 CAMERAS = {
-    "Cam1": "rtsp://mitra:Mitra2024@10.32.8.196/ISAPI/Streaming/Channels/201/PPP_CARIJOS_GUARANIS",
-    "Cam2": "rtsp://mitra:Mitra2024@10.32.8.195/ISAPI/Streaming/Channels/101/PPP_CARIJOS_SAO_PAULO",
-    "Cam3": "rtsp://mitra:Mitra2025@10.32.8.197/ISAPI/Streaming/Channels/101/RIO_DE_JANEIRO_TUPINAMBAS"
 }
 
 # threshold para considerar que é a mesma pessoa
