@@ -20,5 +20,5 @@ Este projeto implementa um sistema de reconhecimento facial em tempo real utiliz
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/carlaasantana/FaceMatch-RTSP-Detector>
    cd <DIRETORIO_DO_PROJETO>
