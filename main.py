@@ -21,6 +21,7 @@ os.makedirs(PASTA_CONHECIDOS, exist_ok=True)  # ertifique-se que a pasta de conh
 
 # configuração das câmeras
 CAMERAS = {
+    #aqui voce adiciona o link rstp da sua câmera
 }
 
 # threshold para considerar que é a mesma pessoa
